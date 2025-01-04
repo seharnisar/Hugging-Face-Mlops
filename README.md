@@ -1,6 +1,5 @@
-# Hugging-Face-Mlops
 ---
-title: Demo
+title: Mlops
 emoji: 🌙
 colorFrom: purple
 colorTo: purple
